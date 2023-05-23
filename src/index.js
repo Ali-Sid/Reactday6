@@ -17,4 +17,12 @@
 
 // Exercise: Level 2
 // 1. In the following design, evens are green, odds are yellow and prime numbers are red. Build the following colors using React component
-// refer App.jsx
+// refer App.jsx, NumberContainer.jsx
+
+// 2. Create the following hexadecimal colors using React component
+// refer App.jsx, HexaContainer.jsx, index.css
+
+
+// Exercises: Level 3:
+// 1. Make the following bar group using the given data.
+// refer App.jsx, index.css, NumberContainer.jsx, HexaColor.jsx, Population.jsx
